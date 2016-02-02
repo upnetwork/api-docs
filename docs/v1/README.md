@@ -1,6 +1,9 @@
+### [Главная страница](https://github.com/upnetwork/api-docs/blob/master/README.md)
+
 # UpnApi v1(deprecated)
 
-Клиент для API версия 1.
+Пример работы с API версии 1.
+[Реализация клиента на php](https://github.com/upnetwork/api-docs/blob/master/docs/v1/client-example.php)
 
 ## Использование
 
