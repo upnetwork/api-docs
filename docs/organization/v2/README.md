@@ -3,6 +3,7 @@
 # UpnApi v2 Organizations
 
 API UPNetwork позволяет Организациям, зарегистрированным в системе, присылать Заказы, а также получать информацию о них. 
+[Полная документация](https://docs.google.com/document/d/1xE-wZtBT1adfYj6WNsrLV7j7yL0SKvge5dgQTRxSDUU/edit?usp=sharing)
 
 ##Форматы запросов
 
