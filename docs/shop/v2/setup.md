@@ -12,7 +12,7 @@
 
 ## 2) Создаем обработчик для отправки запроса на создание заказа
 
-Пример данного обработчика можно посмотреть [по этой ссылке](https://github.com/upnetwork/test-php-shop/blob/master/order.php)
+Реализацию данного обработчика можно посмотреть [по этой ссылке](https://github.com/upnetwork/test-php-shop/blob/master/order.php)
 
 > Для работы выше представленного обработчика надо сконфигурировать файл config.php, который будет уникален для каждого магазина. [Правила создания файла config.ru](https://github.com/upnetwork/api-docs/blob/master/docs/shop/v2/config.php.md)
 
