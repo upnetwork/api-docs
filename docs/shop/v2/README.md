@@ -6,19 +6,8 @@ API UPNetwork магазинам создавать заказы в систем
 
 ### [Пример магазина](https://github.com/upnetwork/test-php-shop)
 
-## Подключение магазина к  системе
+### [Подключение магазина к системе](https://github.com/upnetwork/api-docs/blob/master/docs/shop/v2/setup.md)
 
-#### 1) Подключаем скрипт для обработки параметров
+## Форматы запросов
 
-```
-<script src="http://upnetwork.ru/javascripts/shops_set_cokkies.js"></script>
-```
-
-Данный скрипт позволяет привязать поток к заказу.
-
-#### 2) Создаем обработчик для отправки запроса на создание заказа
-
-Пример данного обработчика можно посмотреть [по этой ссылке](https://github.com/upnetwork/test-php-shop/blob/master/order.php)
-
-> Для работы выше представленного обработчика надо сконфигурировать файл config.php, который будет уникален для каждого магазина. [Правила конфигурации файла config.ru]()
-
+[Создание заказа](https://github.com/upnetwork/api-docs/blob/master/docs/shop/v2/create.md)
