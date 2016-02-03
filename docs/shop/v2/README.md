@@ -2,7 +2,7 @@
 
 # UpnApi v2 Shops
 
-API UPNetwork магазинам создавать заказы в системе.
+API UPNetwork позволяет магазинам создавать заказы в системе.
 
 ### [Пример магазина](https://github.com/upnetwork/test-php-shop)
 
