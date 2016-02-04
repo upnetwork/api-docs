@@ -9,6 +9,6 @@
 ## [UpnAPI v1(deprecated)](https://github.com/upnetwork/api-docs/blob/master/docs/v1/README.md)
 [Пример реализации клиента на php](https://github.com/upnetwork/api-docs/blob/master/docs/v1/client-example.php)
 
-# Остольная документация
+# Остальная документация
 
 ## [Настойка лендингов и прелендингов](https://github.com/upnetwork/api-docs/tree/master/docs/another/landings)
