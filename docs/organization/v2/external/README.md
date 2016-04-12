@@ -6,4 +6,4 @@ API UPNetwork позволяет Организациям, зарегистри�
 
 ##Форматы запросов
 
-[Обновление заказа](https://github.com/upnetwork/api-docs/blob/master/docs/organization/v2/create.md)
+[Обновление заказа](https://github.com/upnetwork/api-docs/blob/master/docs/organization/v2/external/update.md)
